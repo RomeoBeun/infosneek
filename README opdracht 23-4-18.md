@@ -1,0 +1,8 @@
+# infosneek
+INFOSITE SNEEK RESERVEREN SKUTSJE 
+
+Beginnen sketch wat willen we
+
+LOGBOEK BIJHOUDEN.
+
+ALLE 3 LOGBOEK BIJHOUDEN.
