@@ -7,24 +7,22 @@
 <head id="Head1" runat="server">
 
     <title>Google Maps Example</title>
-
-     <script type="text/javascript"
-
-        src="http://www.google.com/jsapi?key=AIzaSyBCzZnmPj1oNPw9N584H2jOKIMj-5S4jyM"></script>
+   
+     <script type="text/javascript" src="http://www.google.com/jsapi?key=AIzaSyBCzZnmPj1oNPw9N584H2jOKIMj-5S4jyM"></script>
 
      <script type="text/javascript">
 
       google.load("maps", "2");
 
-      // Call this function when the page has been loaded
+      //functie om de API aan te roepen.
 
       function initialize() {
-
+          //maakt de map aan.
         var map = new google.maps.Map2(document.getElementById("map"));
-
-        map.setCenter(new google.maps.LatLng("53.0337476", "5.6589"), 5);
-
-        var point = new GPoint("53.0337476", "5.6589");
+          // "spawn point" dus de plek waar de map word weergegeven in dit geval boven Nederland, ook word met de 9 aangegeven hoe ver boven het platte land de kaart word weergegeven.
+        map.setCenter(new google.maps.LatLng("53.0337476", "5.6589"), 9);
+          //De marker op de map met de coördinaten voor Sneek.
+        var point = new GPoint("5.6589", "53.0337476");
 
         var marker = new GMarker(point);
 
@@ -34,20 +32,6 @@
 
       }
 
-         function initMap() {
-
-             var Sneek = { lat: 53.0337476, lng: 5.6589 };
-             var map = new google.maps.Map(document.getElementById('map'), {
-                 zoom: 10,
-                 center: Sneek
-             });
-             var marker = new google.maps.Marker({
-                 position: Sneek,
-                 map: map
-             });
-         }
-
-
       google.setOnLoadCallback(initialize);
 
     </script>
@@ -55,16 +39,14 @@
 </head>
 
 <form id="form1" runat="server">
-
+    
     <div>
 
-        <div id="map" style="width: 400px; height: 400px"></div>
+        <div id="map" style="width: 100%; height: 600px"></div>
 
     </div>
 
 </form>
-
-
 
 <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="6000">
     <ol class="carousel-indicators">
