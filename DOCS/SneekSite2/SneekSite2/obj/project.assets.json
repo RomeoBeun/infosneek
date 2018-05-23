@@ -12668,11 +12668,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\216184\\source\\repos\\SneekSite2\\SneekSite2\\SneekSite2.csproj",
+      "projectUniqueName": "C:\\Users\\216184\\Documents\\GitHub\\infosneek\\DOCS\\SneekSite2\\SneekSite2\\SneekSite2.csproj",
       "projectName": "SneekSite2",
-      "projectPath": "C:\\Users\\216184\\source\\repos\\SneekSite2\\SneekSite2\\SneekSite2.csproj",
+      "projectPath": "C:\\Users\\216184\\Documents\\GitHub\\infosneek\\DOCS\\SneekSite2\\SneekSite2\\SneekSite2.csproj",
       "packagesPath": "C:\\Users\\216184\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\216184\\source\\repos\\SneekSite2\\SneekSite2\\obj\\",
+      "outputPath": "C:\\Users\\216184\\Documents\\GitHub\\infosneek\\DOCS\\SneekSite2\\SneekSite2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12719,5 +12719,13 @@
         "warn": true
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\216184\\Documents\\GitHub\\infosneek\\DOCS\\SneekSite2\\SneekSite2\\obj\\SneekSite2.csproj.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

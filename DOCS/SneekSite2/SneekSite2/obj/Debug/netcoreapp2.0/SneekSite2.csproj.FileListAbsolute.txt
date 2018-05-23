@@ -9,3 +9,14 @@ C:\Users\216184\source\repos\SneekSite2\SneekSite2\obj\Debug\netcoreapp2.0\Sneek
 C:\Users\216184\source\repos\SneekSite2\SneekSite2\obj\Debug\netcoreapp2.0\SneekSite2.AssemblyInfo.cs
 C:\Users\216184\source\repos\SneekSite2\SneekSite2\obj\Debug\netcoreapp2.0\SneekSite2.dll
 C:\Users\216184\source\repos\SneekSite2\SneekSite2\obj\Debug\netcoreapp2.0\SneekSite2.pdb
+D:\infosneek\DOCS\SneekSite2\SneekSite2\bin\Debug\netcoreapp2.0\SneekSite2.deps.json
+D:\infosneek\DOCS\SneekSite2\SneekSite2\bin\Debug\netcoreapp2.0\SneekSite2.runtimeconfig.json
+D:\infosneek\DOCS\SneekSite2\SneekSite2\bin\Debug\netcoreapp2.0\SneekSite2.runtimeconfig.dev.json
+D:\infosneek\DOCS\SneekSite2\SneekSite2\bin\Debug\netcoreapp2.0\SneekSite2.dll
+D:\infosneek\DOCS\SneekSite2\SneekSite2\bin\Debug\netcoreapp2.0\SneekSite2.pdb
+D:\infosneek\DOCS\SneekSite2\SneekSite2\obj\Debug\netcoreapp2.0\SneekSite2.csprojResolveAssemblyReference.cache
+D:\infosneek\DOCS\SneekSite2\SneekSite2\obj\Debug\netcoreapp2.0\SneekSite2.csproj.CoreCompileInputs.cache
+D:\infosneek\DOCS\SneekSite2\SneekSite2\obj\Debug\netcoreapp2.0\SneekSite2.AssemblyInfoInputs.cache
+D:\infosneek\DOCS\SneekSite2\SneekSite2\obj\Debug\netcoreapp2.0\SneekSite2.AssemblyInfo.cs
+D:\infosneek\DOCS\SneekSite2\SneekSite2\obj\Debug\netcoreapp2.0\SneekSite2.dll
+D:\infosneek\DOCS\SneekSite2\SneekSite2\obj\Debug\netcoreapp2.0\SneekSite2.pdb
