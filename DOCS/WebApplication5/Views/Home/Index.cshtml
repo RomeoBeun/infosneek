@@ -4,12 +4,12 @@
 
 
 
-<div class="Titel">Sneek</div>
+<div class="Titel Font">Sneek</div>
 
                                                                           <div class="line"></div>
 
-<h1 class="SneekInfo">(Titel)</h1>
-<h1 class="SneekInfo SneekInfo2">(Titel)</h1>
+<h1 class="SneekInfo Font">(Titel)</h1>
+<h1 class="SneekInfo SneekInfo2 Font">(Titel)</h1>
 
 
 <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="6000">
@@ -64,20 +64,6 @@
             map.addOverlay(marker);
 
             map.addControl(new GLargeMapControl());
-        }
-
-
-        function initMap() {
-            var Sneek = new google.maps.LatLng(53.033284, 5.656128);
-            var map = new google.maps.Map(document.getElementById('map'), {
-                zoom: 10,
-                center: Sneek
-            });
-            var marker = new google.maps.Marker({
-                position: Sneek,
-                map: map
-            });
-            marker.setMap(map);
         }
 
         google.setOnLoadCallback(initialize);

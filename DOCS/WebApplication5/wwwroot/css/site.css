@@ -69,12 +69,12 @@
 .SneekInfo {
     position: absolute;
     top: 250px;
-    left: 120px;
+    left: 80px;
     font-size: 50px;
 }
 
 .SneekInfo2 {
-    left: 1670px;
+    left: 1630px;
 }
 
 .FooterBalk {
@@ -90,6 +90,10 @@
 .FooterSpace {
     position: absolute;
     line-height: 20px;
-    word-spacing: 120px;
-    left: 35px;
+    word-spacing: 100px;
+    left: 45px;
+}
+
+.Font {
+    font-family: monospace;
 }
