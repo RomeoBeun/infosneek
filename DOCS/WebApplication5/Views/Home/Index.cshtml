@@ -6,7 +6,7 @@
 
 <div class="Titel Font">Sneek</div>
 
-                                                                          <div class="line"></div>
+<div class="line"></div>
 
 <h1 class="SneekInfo Font">(Titel)</h1>
 <h1 class="SneekInfo SneekInfo2 Font">(Titel)</h1>
@@ -52,11 +52,11 @@
         // Call this function when the page has been loaded
 
         function initialize() {
-
+            //Maakt een map aan voor de api
             var map = new google.maps.Map2(document.getElementById("map"));
-
+            //Dit is waar de map "spawnd" of te wel word weergegeven zodra je hem ziet in dit geval boven nederland het cijfer 13 staat voor hhoever je bent in gezoomd.
             map.setCenter(new google.maps.LatLng("53.0337476", "5.6589"), 13);
-
+            //De coördinaten en code voor de marker die in dit geval op sneek staat 
             var point = new GPoint("5.6589", "53.0337476");
 
             var marker = new GMarker(point);

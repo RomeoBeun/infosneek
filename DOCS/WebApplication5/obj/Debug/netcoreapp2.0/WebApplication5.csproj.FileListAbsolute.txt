@@ -9,3 +9,14 @@ C:\Users\allar\source\repos\WebApplication5\obj\Debug\netcoreapp2.0\WebApplicati
 C:\Users\allar\source\repos\WebApplication5\obj\Debug\netcoreapp2.0\WebApplication5.AssemblyInfo.cs
 C:\Users\allar\source\repos\WebApplication5\obj\Debug\netcoreapp2.0\WebApplication5.dll
 C:\Users\allar\source\repos\WebApplication5\obj\Debug\netcoreapp2.0\WebApplication5.pdb
+C:\Users\216184\Documents\GitHub\infosneek\DOCS\WebApplication5\bin\Debug\netcoreapp2.0\WebApplication5.deps.json
+C:\Users\216184\Documents\GitHub\infosneek\DOCS\WebApplication5\bin\Debug\netcoreapp2.0\WebApplication5.runtimeconfig.json
+C:\Users\216184\Documents\GitHub\infosneek\DOCS\WebApplication5\bin\Debug\netcoreapp2.0\WebApplication5.runtimeconfig.dev.json
+C:\Users\216184\Documents\GitHub\infosneek\DOCS\WebApplication5\bin\Debug\netcoreapp2.0\WebApplication5.dll
+C:\Users\216184\Documents\GitHub\infosneek\DOCS\WebApplication5\bin\Debug\netcoreapp2.0\WebApplication5.pdb
+C:\Users\216184\Documents\GitHub\infosneek\DOCS\WebApplication5\obj\Debug\netcoreapp2.0\WebApplication5.csprojAssemblyReference.cache
+C:\Users\216184\Documents\GitHub\infosneek\DOCS\WebApplication5\obj\Debug\netcoreapp2.0\WebApplication5.csproj.CoreCompileInputs.cache
+C:\Users\216184\Documents\GitHub\infosneek\DOCS\WebApplication5\obj\Debug\netcoreapp2.0\WebApplication5.AssemblyInfoInputs.cache
+C:\Users\216184\Documents\GitHub\infosneek\DOCS\WebApplication5\obj\Debug\netcoreapp2.0\WebApplication5.AssemblyInfo.cs
+C:\Users\216184\Documents\GitHub\infosneek\DOCS\WebApplication5\obj\Debug\netcoreapp2.0\WebApplication5.dll
+C:\Users\216184\Documents\GitHub\infosneek\DOCS\WebApplication5\obj\Debug\netcoreapp2.0\WebApplication5.pdb
