@@ -4,12 +4,18 @@
 
 
 
-<div class="Titel Font">Sneek</div>
+<div class="Titel">Sneek</div>
 
-<div class="line"></div>
 
-<h1 class="SneekInfo Font">(Titel)</h1>
-<h1 class="SneekInfo SneekInfo2 Font">(Titel)</h1>
+                                                                        <div class="line"></div>
+
+<div class="leftInfo">
+    <h1 class="titelFont">(Titel) <h class="sneekTekst">Info plaatjes</h> </h1>
+</div>
+
+<div class="leftInfo rightInfo">
+    <h1 class="titelFont">(Titel) <h class="sneekTekst">Info plaatjes</h> </h1>
+</div>
 
 
 <div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="6000">
@@ -20,61 +26,62 @@
     </ol>
     <div class="carousel-inner" role="listbox">
         <div class="item active">
-            <img src="~/images/Sneekskutsje.jpg" class="hello2" />
+            <img src="~/images/Sneekskutsje.jpg" class="imageSize2" />
         </div>
         <div class="item">
-            <img src="~/images/Sneek.jpg" class="hello" />
+            <img src="~/images/Sneek.jpg" class="imageSize" />
         </div>
         <div class="item">
-            <img src="~/images/Sneekweek.jpg" class="hello" />
+            <img src="~/images/Sneekweek.jpg" class="imageSize" />
         </div>
     </div>
     <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
         <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
     </a>
     <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
         <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
     </a>
 </div>
-                                                                    <div class="line line2"></div>
 
 
+<div class="infoVak">
+    <h1 class="titelFont">(Titel)</h1>
+    <h class="sneekTekst">Info Sneek kan in dit grote vak.</h>
+</div>
 
 
-<head id="Head1" runat="server">
-    <script type="text/javascript" src="http://www.google.com/jsapi?key=AIzaSyBCzZnmPj1oNPw9N584H2jOKIMj-5S4jyM%22%3E"></script>
-    <script type="text/javascript">
+    <head id="Head1" runat="server">
+        <script type="text/javascript" src="http://www.google.com/jsapi?key=AIzaSyBCzZnmPj1oNPw9N584H2jOKIMj-5S4jyM%22%3E"></script>
+        <script type="text/javascript">
 
-        google.load("maps", "2");
+            google.load("maps", "2");
 
-        // Call this function when the page has been loaded
+            // Call this function when the page has been loaded
 
-        function initialize() {
-            //Maakt een map aan voor de api
-            var map = new google.maps.Map2(document.getElementById("map"));
-            //Dit is waar de map "spawnd" of te wel word weergegeven zodra je hem ziet in dit geval boven nederland het cijfer 13 staat voor hhoever je bent in gezoomd.
-            map.setCenter(new google.maps.LatLng("53.0337476", "5.6589"), 13);
-            //De coördinaten en code voor de marker die in dit geval op sneek staat 
-            var point = new GPoint("5.6589", "53.0337476");
+            function initialize() {
 
-            var marker = new GMarker(point);
+                var map = new google.maps.Map2(document.getElementById("map"));
 
-            map.addOverlay(marker);
+                map.setCenter(new google.maps.LatLng("53.0337476", "5.6589"), 13);
 
-            map.addControl(new GLargeMapControl());
-        }
+                var point = new GPoint("5.6589", "53.0337476");
 
-        google.setOnLoadCallback(initialize);
-    </script>
-</head>
+                var marker = new GMarker(point);
+
+                map.addOverlay(marker);
+
+                map.addControl(new GLargeMapControl());
+            }
+
+            google.setOnLoadCallback(initialize);
+        </script>
+    </head>
 
 
-<form id="form1" runat="server">
-    <div>
-        <div id="map" style=" position: absolute; width: 900px; height: 500px; z-index: 231; left: 500px; top: 1800px;"></div>
-    </div>
-</form>
+    <form id="form1" runat="server">
+        <div>
+            <div id="map" style=" position: absolute; width: 900px; height: 500px; z-index: 231; left: 505px; top: 1850px;"></div>
+        </div>
+    </form>
 
 
