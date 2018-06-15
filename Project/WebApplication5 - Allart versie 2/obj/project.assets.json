@@ -12536,23 +12536,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\216184\\.nuget\\packages\\": {},
+    "C:\\Users\\allar\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\216184\\Documents\\GitHub\\infosneek\\Project\\WebApplication5\\WebApplication5.csproj",
+      "projectUniqueName": "C:\\Users\\allar\\source\\repos\\WebApplication5\\WebApplication5.csproj",
       "projectName": "WebApplication5",
-      "projectPath": "C:\\Users\\216184\\Documents\\GitHub\\infosneek\\Project\\WebApplication5\\WebApplication5.csproj",
-      "packagesPath": "C:\\Users\\216184\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\216184\\Documents\\GitHub\\infosneek\\Project\\WebApplication5\\obj\\",
+      "projectPath": "C:\\Users\\allar\\source\\repos\\WebApplication5\\WebApplication5.csproj",
+      "packagesPath": "C:\\Users\\allar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\allar\\source\\repos\\WebApplication5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\216184\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\allar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
