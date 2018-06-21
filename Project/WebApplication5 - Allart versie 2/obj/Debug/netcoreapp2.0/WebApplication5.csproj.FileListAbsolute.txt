@@ -9,14 +9,3 @@ C:\Users\allar\source\repos\WebApplication5\obj\Debug\netcoreapp2.0\WebApplicati
 C:\Users\allar\source\repos\WebApplication5\obj\Debug\netcoreapp2.0\WebApplication5.dll
 C:\Users\allar\source\repos\WebApplication5\obj\Debug\netcoreapp2.0\WebApplication5.pdb
 C:\Users\allar\source\repos\WebApplication5\obj\Debug\netcoreapp2.0\WebApplication5.csprojAssemblyReference.cache
-D:\infosneek\Project\WebApplication5 - Allart versie 2\bin\Debug\netcoreapp2.0\WebApplication5.deps.json
-D:\infosneek\Project\WebApplication5 - Allart versie 2\bin\Debug\netcoreapp2.0\WebApplication5.runtimeconfig.json
-D:\infosneek\Project\WebApplication5 - Allart versie 2\bin\Debug\netcoreapp2.0\WebApplication5.runtimeconfig.dev.json
-D:\infosneek\Project\WebApplication5 - Allart versie 2\bin\Debug\netcoreapp2.0\WebApplication5.dll
-D:\infosneek\Project\WebApplication5 - Allart versie 2\bin\Debug\netcoreapp2.0\WebApplication5.pdb
-D:\infosneek\Project\WebApplication5 - Allart versie 2\obj\Debug\netcoreapp2.0\WebApplication5.csprojResolveAssemblyReference.cache
-D:\infosneek\Project\WebApplication5 - Allart versie 2\obj\Debug\netcoreapp2.0\WebApplication5.csproj.CoreCompileInputs.cache
-D:\infosneek\Project\WebApplication5 - Allart versie 2\obj\Debug\netcoreapp2.0\WebApplication5.AssemblyInfoInputs.cache
-D:\infosneek\Project\WebApplication5 - Allart versie 2\obj\Debug\netcoreapp2.0\WebApplication5.AssemblyInfo.cs
-D:\infosneek\Project\WebApplication5 - Allart versie 2\obj\Debug\netcoreapp2.0\WebApplication5.dll
-D:\infosneek\Project\WebApplication5 - Allart versie 2\obj\Debug\netcoreapp2.0\WebApplication5.pdb
