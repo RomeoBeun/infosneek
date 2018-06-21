@@ -1,6 +1,6 @@
 ﻿body {
-    padding-top: 50px;
-    padding-bottom: 20px;
+    position: relative;
+    top: 5vw;
     background-color: lightgray;
 }
 
@@ -47,18 +47,18 @@
 }
 
 .Titel {
-    font-size: 100px;
+    font-size: 7vw;
     position: absolute;
-    top: 50px;
-    left: 800px;
+    top: 0vw;
+    left: 39vw;
 }
 
 .line {
     height: 2px;
     width:100%;
     position: absolute;
-    top: 200px;
-    left: 0px;
+    top: 15vw;
+    left: 0vw;
     background-color: black;
 }
 
@@ -96,4 +96,20 @@
 
 .Font {
     font-family: monospace;
+}
+.hamburgermenu {
+    background-image: url('https://mdbootstrap.com/img/svg/hamburger6.svg?color=000');
+    background-color: transparent;
+
+}
+.ham {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background-color:transparent;
+    vertical-align: middle;
+    cursor: pointer;
+}
+.trans {
+    background-color: transparent;
 }
