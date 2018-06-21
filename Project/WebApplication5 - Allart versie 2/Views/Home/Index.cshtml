@@ -48,3 +48,40 @@
     <h1 class="titelFont">(Titel)</h1>
     <h class="sneekTekst">Info Sneek kan in dit grote vak.</h>
 </div>
+
+
+    <head id="Head1" runat="server">
+        <script type="text/javascript" src="http://www.google.com/jsapi?key=AIzaSyBCzZnmPj1oNPw9N584H2jOKIMj-5S4jyM%22%3E"></script>
+        <script type="text/javascript">
+
+            google.load("maps", "2");
+
+            // Call this function when the page has been loaded
+
+            function initialize() {
+
+                var map = new google.maps.Map2(document.getElementById("map"));
+
+                map.setCenter(new google.maps.LatLng("53.0337476", "5.6589"), 13);
+
+                var point = new GPoint("5.6589", "53.0337476");
+
+                var marker = new GMarker(point);
+
+                map.addOverlay(marker);
+
+                map.addControl(new GLargeMapControl());
+            }
+
+            google.setOnLoadCallback(initialize);
+        </script>
+    </head>
+
+
+    <form id="form1" runat="server">
+        <div>
+            <div id="map" style=" position: absolute; width: 900px; height: 500px; z-index: 231; left: 505px; top: 1850px;"></div>
+        </div>
+    </form>
+
+
