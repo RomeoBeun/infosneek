@@ -1,11 +1,11 @@
-C:\Users\allar\source\repos\WebApplication5\bin\Release\netcoreapp2.0\WebApplication5.deps.json
-C:\Users\allar\source\repos\WebApplication5\bin\Release\netcoreapp2.0\WebApplication5.runtimeconfig.json
-C:\Users\allar\source\repos\WebApplication5\bin\Release\netcoreapp2.0\WebApplication5.runtimeconfig.dev.json
-C:\Users\allar\source\repos\WebApplication5\bin\Release\netcoreapp2.0\WebApplication5.dll
-C:\Users\allar\source\repos\WebApplication5\bin\Release\netcoreapp2.0\WebApplication5.pdb
-C:\Users\allar\source\repos\WebApplication5\obj\Release\netcoreapp2.0\WebApplication5.csprojAssemblyReference.cache
-C:\Users\allar\source\repos\WebApplication5\obj\Release\netcoreapp2.0\WebApplication5.csproj.CoreCompileInputs.cache
-C:\Users\allar\source\repos\WebApplication5\obj\Release\netcoreapp2.0\WebApplication5.AssemblyInfoInputs.cache
-C:\Users\allar\source\repos\WebApplication5\obj\Release\netcoreapp2.0\WebApplication5.AssemblyInfo.cs
-C:\Users\allar\source\repos\WebApplication5\obj\Release\netcoreapp2.0\WebApplication5.dll
-C:\Users\allar\source\repos\WebApplication5\obj\Release\netcoreapp2.0\WebApplication5.pdb
+D:\infosneek\Project\WebApplication5 - Allart versie 2\bin\Release\netcoreapp2.0\WebApplication5.deps.json
+D:\infosneek\Project\WebApplication5 - Allart versie 2\bin\Release\netcoreapp2.0\WebApplication5.runtimeconfig.json
+D:\infosneek\Project\WebApplication5 - Allart versie 2\bin\Release\netcoreapp2.0\WebApplication5.runtimeconfig.dev.json
+D:\infosneek\Project\WebApplication5 - Allart versie 2\bin\Release\netcoreapp2.0\WebApplication5.dll
+D:\infosneek\Project\WebApplication5 - Allart versie 2\bin\Release\netcoreapp2.0\WebApplication5.pdb
+D:\infosneek\Project\WebApplication5 - Allart versie 2\obj\Release\netcoreapp2.0\WebApplication5.csprojResolveAssemblyReference.cache
+D:\infosneek\Project\WebApplication5 - Allart versie 2\obj\Release\netcoreapp2.0\WebApplication5.csproj.CoreCompileInputs.cache
+D:\infosneek\Project\WebApplication5 - Allart versie 2\obj\Release\netcoreapp2.0\WebApplication5.AssemblyInfoInputs.cache
+D:\infosneek\Project\WebApplication5 - Allart versie 2\obj\Release\netcoreapp2.0\WebApplication5.AssemblyInfo.cs
+D:\infosneek\Project\WebApplication5 - Allart versie 2\obj\Release\netcoreapp2.0\WebApplication5.dll
+D:\infosneek\Project\WebApplication5 - Allart versie 2\obj\Release\netcoreapp2.0\WebApplication5.pdb

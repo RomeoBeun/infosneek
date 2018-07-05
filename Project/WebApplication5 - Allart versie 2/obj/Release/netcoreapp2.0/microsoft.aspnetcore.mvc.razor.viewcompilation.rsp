@@ -1,12 +1,12 @@
-C:\Users\allar\source\repos\WebApplication5
+D:\infosneek\Project\WebApplication5 - Allart versie 2
 --output-path=obj\Release\netcoreapp2.0\
 --application-name=WebApplication5
---content-root=C:\Users\allar\source\repos\WebApplication5
---file=C:\Users\allar\source\repos\WebApplication5\Views\Home\About.cshtml
---file=C:\Users\allar\source\repos\WebApplication5\Views\Home\Contact.cshtml
---file=C:\Users\allar\source\repos\WebApplication5\Views\Home\Index.cshtml
---file=C:\Users\allar\source\repos\WebApplication5\Views\Shared\Error.cshtml
---file=C:\Users\allar\source\repos\WebApplication5\Views\Shared\_Layout.cshtml
---file=C:\Users\allar\source\repos\WebApplication5\Views\Shared\_ValidationScriptsPartial.cshtml
---file=C:\Users\allar\source\repos\WebApplication5\Views\_ViewImports.cshtml
---file=C:\Users\allar\source\repos\WebApplication5\Views\_ViewStart.cshtml
+--content-root=D:\infosneek\Project\WebApplication5 - Allart versie 2
+--file=D:\infosneek\Project\WebApplication5 - Allart versie 2\Views\Home\About.cshtml
+--file=D:\infosneek\Project\WebApplication5 - Allart versie 2\Views\Home\Contact.cshtml
+--file=D:\infosneek\Project\WebApplication5 - Allart versie 2\Views\Home\Index.cshtml
+--file=D:\infosneek\Project\WebApplication5 - Allart versie 2\Views\Shared\Error.cshtml
+--file=D:\infosneek\Project\WebApplication5 - Allart versie 2\Views\Shared\_Layout.cshtml
+--file=D:\infosneek\Project\WebApplication5 - Allart versie 2\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=D:\infosneek\Project\WebApplication5 - Allart versie 2\Views\_ViewImports.cshtml
+--file=D:\infosneek\Project\WebApplication5 - Allart versie 2\Views\_ViewStart.cshtml
